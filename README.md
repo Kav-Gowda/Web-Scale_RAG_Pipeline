@@ -1,4 +1,4 @@
-# rag-webdata-llama3
+# Web-Scale RAG Pipeline with Llama 3.1 + LangChain
 
 A **Retrieval-Augmented Generation (RAG)** system built to retrieve and summarize **web-based data** using **LangChain**, **Llama 3.1**, and **Chroma**.  
 This project demonstrates how to automatically extract information from live web sources, embed it, and generate grounded answers through Llama 3.1, enabling real-time insights from unstructured web content.
